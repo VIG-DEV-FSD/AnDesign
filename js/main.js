@@ -1,5 +1,5 @@
 $(function () {
-
+    console.log('changes')
     if (document.location.pathname == '/AnDesign' || document.location.pathname == '/AnDesign/index.html') {
         document.addEventListener('click', navigation);
         
