@@ -1,6 +1,6 @@
 $(function () {
 
-    if (document.location.pathname == '/' || document.location.pathname == '/index.html') {
+    if (document.location.pathname == '/AnDesign' || document.location.pathname == '/AnDesign/index.html') {
         document.addEventListener('click', navigation);
         
         document.addEventListener('click', moreProjects)
@@ -30,7 +30,7 @@ $(function () {
     }
     let page = 1
 
-    if (document.location.pathname == '/calculate.html') {
+    if (document.location.pathname == '/AnDesign/calculate.html') {
         document.addEventListener('click', selectCheckbox)
         document.addEventListener('click', navigateQuestions)
     }
