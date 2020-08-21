@@ -1,1 +1,1 @@
-https://vig-dev-fsd.github.io/AnDesign/
+https://vlgdev.github.io/AnDesign/
